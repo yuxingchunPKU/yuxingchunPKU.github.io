@@ -9,15 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-See my [Curriculum Vitae](/files/cv.pdf) for more information.
+See my [Curriculum Vitae]() for more information.
 
 ## Education
 
-* Ph.D in Mathematics, Peking University, 2025 (expected) (Supervisors: Professor [Pingwen Zhang](https://www.math.pku.edu.cn/pzhang/en/), Professor [Bin Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/))
+* Ph.D in Mathematics, Peking University, 2020-2025 (expected) (Supervisors: Professor [Tiao Lu](http://dsec.pku.edu.cn/~tlu))
+* Bachelor of Science, Xi'an Jiao Tong University, 2016-2020.
 
-## Teaching
-
-* Spring 2023: Advanced Algebra (II) (Exercises)
-* Fall 2022: Advanced Algebra (I) (Exercises)
-* Spring 2022: Advanced Algebra (II) (Exercises)
-* Fall 2020: Advanced Mathematics (C) (Exercises)
+## Teaching assistant
+* Fall 2020: Computing method (B)
+* Spring 2021: Mathematical model
+* Fall 2021: Advanced Mathematics (B)
+* Fall 2022: Linear Algebra (B)
+* Fall 2023: Advanced Mathematics (D)

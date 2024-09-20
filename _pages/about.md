@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 * Welcome to **yuxingchunPKU.github.io**. This is the homepage for Yu Xingchun.
-* I am currently a Ph.D. student from School of Mathematical Sciences, Peking University. (Office: Room 202, No. 20 Building)
-* You may reach me via email: yuxingchun {at} stu {dot} pku {dot} edu {dot} cn
+* I am currently a Ph.D. student from School of [Mathematical Sciences](https://www.math.pku.edu.cn/), Peking University. (Office: Room 202, No. 20 Building)
+* You may reach me via email: yuxingchun@stu.pku.edu.cn
 
 ## Research interests
 

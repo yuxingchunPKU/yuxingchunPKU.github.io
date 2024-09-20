@@ -7,7 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-* Spring 2023: [Advanced Algebra (II) (Exercises)](/teaching/2023-spring-advanced-algebra-II)
-* Fall 2022: Advanced Algebra (I) (Exercises)
-* Spring 2022: Advanced Algebra (II) (Exercises)
-* Fall 2020: Advanced Mathematics (C) (Exercises)
+## Teaching assistant
+* Fall 2020: Computing method (B)
+* Spring 2021: Mathematical model
+* Fall 2021: Advanced Mathematics (B)
+* Fall 2022: Linear Algebra (B)
+* Fall 2023: Advanced Mathematics (D)
